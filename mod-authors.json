@@ -3,7 +3,10 @@
     "author" : "Buuz135",
     "pronoun": "his",
     "links": [
-      "ko-fi": "https://ko-fi.com/buuz135"
+      {
+        "type": "ko-fi"
+        "url": "https://ko-fi.com/buuz135"
+      }
     ]
   }
 ]
