@@ -1,7 +1,11 @@
 [
   {
     "author" : "Buuz135",
-    "pronoun": "His",
+    "primary_color": "0xFF4E4E", 
+    "secondary_color": "0xDAC035", 
+    "alternate_attribution": [  
+      "The NeoForged Team"
+    ],
     "links": [
       {
         "type": "ko-fi",
