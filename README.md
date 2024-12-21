@@ -30,4 +30,5 @@ There isn't any link validation, types are used for the icon shown in game
 * Github Sponsor: `github-sponsor`
 * Patreon: `patreon`
 * BuyMeACoffee: `buymeacoffee`
+* Paypal: `paypal`
 * Custom: `custom`
