@@ -10,7 +10,15 @@
       {
         "type": "ko-fi",
         "url": "https://ko-fi.com/buuz135"
-      }
+      },
+      {
+        "type": "patreon",
+        "url": "https://patreon.com/buuz135"
+      },
+      {
+        "type": "github-sponsor",
+        "url": "https://github.com/sponsors/Buuz135"
+      },
     ]
   }
 ]
