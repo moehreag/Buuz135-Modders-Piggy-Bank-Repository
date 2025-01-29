@@ -20,5 +20,19 @@
         "url": "https://github.com/sponsors/Buuz135"
       }
     ]
+  },
+  {
+    "author": "Up",
+    "primary_color": "0xCC90E0",
+    "secondary_color": "0xCC90E0",
+    "alternate_attribution": [
+      "UpcraftLP"
+    ],
+    "links": [
+      {
+        "type": "ko-fi",
+        "url": "https://upcraft.dev/links/ko-fi"
+      }
+    ]
   }
 ]
