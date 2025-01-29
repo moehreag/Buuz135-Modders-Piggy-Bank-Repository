@@ -1,9 +1,9 @@
 [
   {
-    "author" : "Buuz135",
-    "primary_color": "0xFF4E4E", 
-    "secondary_color": "0xDAC035", 
-    "alternate_attribution": [  
+    "author": "Buuz135",
+    "primary_color": "0xFF4E4E",
+    "secondary_color": "0xDAC035",
+    "alternate_attribution": [
       "The NeoForged Team"
     ],
     "links": [
@@ -18,6 +18,20 @@
       {
         "type": "github-sponsor",
         "url": "https://github.com/sponsors/Buuz135"
+      }
+    ]
+  },
+  {
+    "author": "Up",
+    "primary_color": "0xCC90E0",
+    "secondary_color": "0xCC90E0",
+    "alternate_attribution": [
+      "UpcraftLP"
+    ],
+    "links": [
+      {
+        "type": "ko-fi",
+        "url": "https://upcraft.dev/links/ko-fi"
       }
     ]
   }
