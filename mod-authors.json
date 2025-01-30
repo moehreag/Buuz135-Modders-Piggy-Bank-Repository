@@ -52,5 +52,29 @@
         "url": "https://www.patreon.com/SpacEagle17"
       }
     ]
+  },
+  {
+    "author": "LatvianModder",
+    "primary_color": "0xF1C40F",
+    "secondary_color": "0x52013D",
+    "alternate_attribution": [
+      "latvian.dev"
+    ],
+    "links": [
+      {
+        "type": "custom",
+        "url": "https://discord.gg/lat"
+      }
+    ]
+  },
+  {
+    "author": "MaxNeedsSnacks",
+    "primary_color": "0xFCB95B",
+    "secondary_color": "0xFCB95B",
+    "alternate_attribution": [
+      "latvian.dev"
+    ],
+    "links": [
+    ]
   }
 ]
