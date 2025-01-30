@@ -34,5 +34,23 @@
         "url": "https://upcraft.dev/links/ko-fi"
       }
     ]
+  },
+  {
+    "author": "SpacEagle17",
+    "primary_color": "0xFF50DF",
+    "secondary_color": "0xE6852C",
+    "alternate_attribution": [
+      "Euphoria Patches Developer"
+    ],
+    "links": [
+      {
+        "type": "ko-fi",
+        "url": "https://ko-fi.com/spaceagle17"
+      },
+      {
+        "type": "patreon",
+        "url": "https://www.patreon.com/SpacEagle17"
+      }
+    ]
   }
 ]
