@@ -90,4 +90,25 @@
       }
     ]
   }
+   {
+    "author": "XxRexRaptorxX (RexRaptor)",
+    "primary_color": "0x00CF37",
+    "secondary_color": "0xDAC035",
+    "alternate_attribution": [
+    ],
+    "links": [
+      {
+        "type": "ko-fi",
+        "url": "https://ko-fi.com/xxrexraptorxx"
+      },
+      {
+        "type": "patreon",
+        "url": "https://www.patreon.com/join/XxRexRaptorxX"
+      },
+      {
+        "type": "custom",
+        "url": "https://discord.com/invite/ycRJJk8EXV"
+      }
+    ]
+  },
 ]
