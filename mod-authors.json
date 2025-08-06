@@ -89,8 +89,8 @@
         "url": "https://ko-fi.com/tschipcraft"
       }
     ]
-  }
-   {
+  },
+  {
     "author": "XxRexRaptorxX (RexRaptor)",
     "primary_color": "0x00CF37",
     "secondary_color": "0xDAC035",
@@ -111,4 +111,19 @@
       }
     ]
   },
+  {
+    "author": "90",
+    "primary_color": "0x090909",
+    "secondary_color": "0x909090",
+    "links": [
+      {
+        "type": "ko-fi",
+        "url": "https://ko-fi.com/gripe"
+      },
+      {
+        "type": "github-sponsor",
+        "url": "https://github.com/sponsors/62832"
+      }
+    ]
+  }
 ]
