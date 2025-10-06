@@ -125,5 +125,16 @@
         "url": "https://github.com/sponsors/62832"
       }
     ]
+  },
+  {
+    "author": "moehreag",
+    "primary_color": "0xf42424",
+    "secondary_color": "0xff5e00",
+    "links": [
+      {
+        "type": "custom",
+        "url": "https://liberapay.com/moehreag"
+      }
+    ]
   }
 ]
